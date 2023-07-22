@@ -1,0 +1,28 @@
+@tailwind base
+@tailwind components
+@tailwind utilities
+
+:root body
+  background-color: white
+
+  a, .prose a
+    color: rgb(0, 112, 243)
+    cursor: pointer
+    text-decoration: none
+    font-weight: inherit
+
+    &:hover
+      border-bottom: 1px solid
+
+  select
+    background-color: rgb(230, 230, 230)
+    border-radius: 0.25rem
+
+:root.dark body
+  background-color: black
+
+  a, .prose a
+    color: rgb(50, 145, 255)
+
+  select
+    background-color: rgb(50, 50, 50)
