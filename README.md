@@ -1,6 +1,6 @@
-# Next.js Starter
+# Next.js Template
 
-This is a starter template for new [Next.js](https://nextjs.org) projects bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a template for new [Next.js](https://nextjs.org) projects bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
