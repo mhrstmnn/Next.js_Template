@@ -1,3 +1,3 @@
 export default function Root() {
-  return <p className="text-xl">Starter template for new Next.js projects</p>
+  return <p className="text-xl">Template for new Next.js projects</p>
 }

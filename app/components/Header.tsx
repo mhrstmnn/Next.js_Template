@@ -6,7 +6,7 @@ export default function Header() {
     <header>
       <Link href="/">
         <h1 className="mb-5" style={{ color: variables.primaryColor }}>
-          Next.js Starter
+          Next.js Template
         </h1>
       </Link>
     </header>

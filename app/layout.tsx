@@ -7,8 +7,8 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 
 export const metadata: Metadata = {
-  title: 'Next.js Starter',
-  description: 'Starter template for new Next.js projects',
+  title: 'Next.js Template',
+  description: 'Template for new Next.js projects',
 }
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' })
